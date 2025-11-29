@@ -10,7 +10,7 @@ Cette version de l'application ArchiJEEWSRestTP a été **complètement dockeris
 
 ---
 
-## Usage
+## Démarrage rapide
 
 1. **Construire et lancer l'application avec Docker Compose :**
 
@@ -20,3 +20,11 @@ docker compose up -d
 
 
 2.  **Accéder à l'application:** http://localhost:8082/
+
+
+
+## Dépôt GitHub
+
+(Vu que je n'ai pas trouvé le dépôt dans le GitLab de l’université pour effectuer mon push, je laisse ici le lien du dépôt GitHub que j’ai créé.)
+
+**Lien GitHub :** https://github.com/Fhamza03/ArchiJEEWSRestTP.git

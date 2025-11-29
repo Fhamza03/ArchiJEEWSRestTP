@@ -24,7 +24,7 @@ public class GreetingServiceTest {
     static void setup() {
         RestAssured.baseURI = "http://localhost";
         RestAssured.port = 8080;
-        RestAssured.basePath = "/ArchiJEEWSRestTP";
+        RestAssured.basePath = "";
     }
 
 
